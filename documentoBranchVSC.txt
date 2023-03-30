@@ -1,0 +1,1 @@
+Documento para probar a utilizar git con VSC
